@@ -1,3 +1,3 @@
-### My lab work in deep learning
+### Labs in Deep Learning
 
-Various materials from the labs at Hunter, all written in python and ran using Google Colab. 
+Various materials from the labs at Hunter, all written in python notebooks and ran using Google Colab.
